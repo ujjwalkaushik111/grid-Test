@@ -27,6 +27,11 @@
     color: #3A3A3A;
 }
 
+.line {
+    height: 70px;
+    background: black;
+}
+
 span {
     color: #F1875E;
 }
